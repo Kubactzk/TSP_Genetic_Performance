@@ -1,0 +1,15 @@
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\bin\Debug\net8.0\TSP_Genetic.exe
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\bin\Debug\net8.0\TSP_Genetic.deps.json
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\bin\Debug\net8.0\TSP_Genetic.runtimeconfig.json
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\bin\Debug\net8.0\TSP_Genetic.dll
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\bin\Debug\net8.0\TSP_Genetic.pdb
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.AssemblyInfoInputs.cache
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.AssemblyInfo.cs
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.csproj.CoreCompileInputs.cache
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.dll
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\refint\TSP_Genetic.dll
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.pdb
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.genruntimeconfig.cache
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\ref\TSP_Genetic.dll
+D:\Studia\ISA-magister\sem_2\Obliczenia_wys_wydajnosci\Projekt\temat2\TSP_Genetic\obj\Debug\net8.0\TSP_Genetic.sourcelink.json

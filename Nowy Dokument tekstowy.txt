@@ -1,0 +1,7 @@
+algorytm: sekwencyjny, równoległy, rozproszony
+
+analiza: rodzaj danych wejściowych, rodzaj zasobów obliczeniowych
+
+wymiary: złożoność czasowa
+
+

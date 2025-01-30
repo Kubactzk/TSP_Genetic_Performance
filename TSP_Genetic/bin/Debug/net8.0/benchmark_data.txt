@@ -1,0 +1,2 @@
+Size	Max Time (ms)	Average Time (ms)	Min Time (ms)
+80	5,022	5,022	5,022
